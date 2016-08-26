@@ -7,7 +7,7 @@
   "filename": "dracula.min.js",
   "name": "graphdracula",
   "description": "JavaScript Graph Layouting and Drawing",
-  "homepage": "http://www.graphdracula.net",
+  "homepage": "https://www.graphdracula.net",
   "license": "MIT",
   "keywords": [
     "bellman-ford",
