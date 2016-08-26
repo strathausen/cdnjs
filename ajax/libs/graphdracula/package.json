@@ -4,7 +4,7 @@
     "email": "philipp@stratha.us",
     "url": "http://stratha.us"
   },
-  "fileName": "dracula.min.js",
+  "filename": "dracula.min.js",
   "name": "graphdracula",
   "description": "JavaScript Graph Layouting and Drawing",
   "homepage": "http://www.graphdracula.net",
