@@ -4,9 +4,9 @@
     "email": "philipp@stratha.us",
     "url": "http://stratha.us"
   },
+  "fileName": "dracula.min.js",
   "name": "graphdracula",
   "description": "JavaScript Graph Layouting and Drawing",
-  "version": "1.0.2",
   "homepage": "http://www.graphdracula.net",
   "license": "MIT",
   "keywords": [
@@ -29,14 +29,13 @@
     "lodash": "^4.14.1",
     "uuid": "^2.0.2"
   },
-  "optionalDependencies": {},
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/strathausen/dracula.git",
-    "basePath": "dist/",
-    "files": [
-      "dracula.min.js",
-      "dracula.js"
-    ]
-  }
+  "npmName": "graphdracula",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }
+  ]
 }
